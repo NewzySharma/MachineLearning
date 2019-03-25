@@ -9,6 +9,8 @@
 
 # Algorithms performed on my data sets
 
+## Algorithms performed on my data sets
+
 1. Linear Regression
 2. Logistic Regression
 3. Classification
