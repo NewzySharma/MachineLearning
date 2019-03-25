@@ -1,3 +1,12 @@
+## Libraries Used
+1. NumPy
+2. Pandas
+3. Scikit-learn
+4. Seaborn
+5. matplotlib
+6. SciPy
+7. Seaborn
+
 ## Algorithms performed on my data sets
 
 1. Linear Regression
@@ -15,3 +24,5 @@
 4. Step-wise Regression
 5. AUC, R-squared, Adjusted R-squared,AIC , BIC , p-value , z score
 6. ROC curve
+7. SVM algorithm
+8. KNN algorithm
