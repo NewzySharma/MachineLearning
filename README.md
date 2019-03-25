@@ -1,4 +1,4 @@
-# Algorithms performed on my data sets
+## Algorithms performed on my data sets
 
 1. Linear Regression
 2. Logistic Regression
@@ -7,7 +7,7 @@
 5. Ridge Regression
 6. K-Fold Cross Validation
 
-# Techniques Learned
+## Techniques Learned/Calculated/Used
 
 1. Multi-collinearity
 2. VIF factor 
