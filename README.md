@@ -5,7 +5,6 @@
 4. Seaborn
 5. matplotlib
 6. SciPy
-7. Seaborn
 
 ## Algorithms performed on my data sets
 
