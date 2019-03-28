@@ -1,3 +1,5 @@
+##### NOTE : I made new repository and uploaded my few assignments as previously my assignments were associated with the university and were in the private mode
+
 ## Libraries Used
 1. NumPy
 2. Pandas
