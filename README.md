@@ -7,6 +7,7 @@
 4. Seaborn
 5. matplotlib
 6. SciPy
+7. Plotly
 
 ## Algorithms performed on my data sets
 
@@ -17,6 +18,9 @@
 4. Regularization
 5. Ridge Regression
 6. K-Fold Cross Validation
+7. Random Forest
+8. Grid Search
+9. Hyperparameter Tuning
 
 ## Techniques Learned/Implemented
 
@@ -28,3 +32,5 @@
 6. ROC curve
 7. SVM algorithm
 8. KNN algorithm
+9. Various kinds of 3d- Projections
+10. Tuning of parameters and finding the best hyper parameters
