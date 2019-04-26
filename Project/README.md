@@ -13,3 +13,7 @@ for examples:
 * Hidden Layers - Number of layers and size of each layers
 
 Hyperparameters are important because they directly control the behaviour of the training algorithm and have a significant impact on the performance of the model that is being trained.
+
+http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html
+
+https://stats.stackexchange.com/questions/95495/guideline-to-select-the-hyperparameters-in-deep-learning
